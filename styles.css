@@ -12,8 +12,8 @@
   text-align: center;
 }
 
-.im {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
+body {
+background-color: #e2f8ec;
+color: #333333;
 }
+
