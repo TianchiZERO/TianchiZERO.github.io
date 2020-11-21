@@ -1,7 +1,7 @@
 .cool-class {
   font-weight: bold;
   color: blue;
-  font-size: 300%;
+ 
 }
 
 .container {
@@ -22,7 +22,13 @@ color: #333333;
 margin: 20px auto;
 }
 
+h1{
+	font-size: 350%
+}
 h3{
-font-size: 200%;
+	font-size: 250%;
 
+}
+p{
+	font-size: 150;
 }
