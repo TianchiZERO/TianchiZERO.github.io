@@ -17,3 +17,6 @@ background-color: #e2f8ec;
 color: #333333;
 }
 
+.container > div {
+margin: 20px auto;
+}
