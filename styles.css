@@ -20,3 +20,9 @@ color: #333333;
 .container > div {
 margin: 20px auto;
 }
+
+h1{font-size: 300%;}
+
+h3{font-size: 200%;}
+
+p{font-size: 150%;}
