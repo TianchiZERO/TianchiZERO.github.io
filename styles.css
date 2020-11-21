@@ -12,9 +12,8 @@
   text-align: center;
 }
 
-.images {
-  border-radius: 90%;
-  width: 200px;
-  height: 200px;
-
+.im {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
 }
