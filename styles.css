@@ -1,4 +1,7 @@
-
+.cool-class {
+  font-weight: bold;
+  color: blue;
+}
 
 .container {
   max-width: 840px;
@@ -7,6 +10,4 @@
 
 .intro {
   text-align: center;
-  font-weight: bold;
-  color: blue;
 }
